@@ -6,3 +6,4 @@ def upper_word(word):
 def title_word(word):
     """Делает буквы заглавными"""
     return word.title
+
